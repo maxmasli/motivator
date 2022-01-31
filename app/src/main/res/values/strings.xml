@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Motivator</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title">Title</string>
+    <string name="task">Task</string>
+    <string name="add">add</string>
+    <string name="add_your_task">Add your task</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="choose_difficulty">Choose difficulty</string>
+    <string name="complete">complete</string>
+    <string name="delete">delete</string>
+    <string name="difficulty">Difficulty:</string>
+    <string name="add_task">add task</string>
+    <string name="warning">Fields must not be empty</string>
+</resources>

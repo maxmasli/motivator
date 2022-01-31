@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мотиватор</string>
+    <string name="title">Загаловок</string>
+    <string name="task">Задание</string>
+    <string name="add">Добавить</string>
+    <string name="add_your_task">Добавь задание</string>
+    <string name="easy">Легкая</string>
+    <string name="medium">Средняя</string>
+    <string name="hard">Сложная</string>
+    <string name="choose_difficulty">Выбери сложность</string>
+    <string name="complete">Завершить</string>
+    <string name="delete">Удалить</string>
+    <string name="difficulty">Сложность:</string>
+    <string name="add_task">Добавить задачу</string>
+    <string name="warning">Поля не должны быть пустыми</string>
+</resources>
